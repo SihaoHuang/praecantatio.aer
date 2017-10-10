@@ -1,15 +1,15 @@
-# praecantatio.aer
+# Aer Engine by Praecantatio Labs
 Miniature radial jet engine kit
 
-<ul>
-<li>Nominal thrust: 8kg
-<li>Length: 235mm
-<li>Diameter: 110mm
-<li>Mass: 1.14kg
-<li>Operating speed: 103000 RPM
-<li>Electric starter and throttle control
-<li>Aluminum diffusor
-<li>Inconel turbine
-<li>304 SS balanced Compressor wheel
 
-</ul>
+- Nominal thrust: 8kg
+- Length: 235mm
+- Diameter: 110mm
+- Mass: 1.14kg
+- Operating speed: 103000 RPM
+- Electric starter and throttle control
+- Aluminum diffusor
+- Inconel turbine
+- 304 SS balanced Compressor wheel
+
+
